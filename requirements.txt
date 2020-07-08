@@ -5,4 +5,4 @@ binaryornot==0.3.0
 cookiecutter==0.7.1
 dotenv==0.0.2
 fbopen==0.0.1
-requests==2.3.0
+requests==2.20.0
